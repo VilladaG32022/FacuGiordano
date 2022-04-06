@@ -7,4 +7,3 @@
 
 <img src="https://images.wikidexcdn.net/mwuploads/wikidex/e/e8/latest/20200428204044/Mega-Gardevoir.png" width="300" height="300">
 
-<img src="https://imgs.search.brave.com/S8so1EoZDAGUC4dU3MCUY22SB90FNBEk0ndWMR3BHK4/rs:fit:736:920:1/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vNzM2/eC9mZi9lYi8wMS9m/ZmViMDE3ZTU1MDAz/MWQwOWNlYzMzMmUx/NmMwMjQyNi5qcGc">
