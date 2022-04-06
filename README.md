@@ -3,5 +3,5 @@
 
 <img src="https://images.wikidexcdn.net/mwuploads/wikidex/thumb/b/be/latest/20160309230456/Venusaur.png/300px-Venusaur.png" width="100" height="100">
 
-<img src="https://images.wikidexcdn.net/mwuploads/wikidex/e/ee/latest/20191126025957/Snorlax_icon.png" width="100" height="100">
+<img src="https://images.wikidexcdn.net/mwuploads/wikidex/thumb/0/0b/latest/20160904204605/Snorlax.png/300px-Snorlax.png" width="100" height="100">
 
