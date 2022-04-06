@@ -7,5 +7,5 @@
 
 <img src="https://images.wikidexcdn.net/mwuploads/wikidex/e/e8/latest/20200428204044/Mega-Gardevoir.png" width="300" height="300">
 
-<img src="https://search.brave.com/images?origin=search&q=Avatar%20the%20last%20airbender">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Avatar_The_Last_Airbender_logo.svg/250px-Avatar_The_Last_Airbender_logo.svg.png">
 
