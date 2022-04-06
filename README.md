@@ -1,8 +1,6 @@
 <div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Avatar_The_Last_Airbender_logo.svg/250px-Avatar_The_Last_Airbender_logo.svg.png"></div>
 <br> </br>
-<div> </div>
-<div> </div>
-<div> </div>
+<br> </br>
 
 
 
