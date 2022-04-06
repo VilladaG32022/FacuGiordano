@@ -1,5 +1,5 @@
 <div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Avatar_The_Last_Airbender_logo.svg/250px-Avatar_The_Last_Airbender_logo.svg.png"></div>
-<br> </br>
+
 <br> </br>
 
 <div align="center"><img src="https://i.pinimg.com/564x/06/8c/39/068c3915ca0811dfbb507d9f3dda7278.jpg" width="500" height="700"></div>
