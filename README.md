@@ -5,3 +5,6 @@
 
 <img src="https://images.wikidexcdn.net/mwuploads/wikidex/thumb/0/0b/latest/20160904204605/Snorlax.png/300px-Snorlax.png">
 
+<img src="https://images.wikidexcdn.net/mwuploads/wikidex/2/25/latest/20141113231924/Kirlia.png">
+
+
